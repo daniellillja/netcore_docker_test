@@ -1,0 +1,1 @@
+docker build -t daniellillja/netcore_docker_test --build-arg proxy=$env:http_proxy .
